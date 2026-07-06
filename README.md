@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zereft01
-- 👀 I’m interested in Python, Bash, Linux, Hacking, Diseño gráfico,
-- 🌱 I’m currently learning Python, Bash
+- 👀 I’m interested in Python, Bash, Linux, Hacking...
+- 🌱 I’m currently learning Python, Bash...
 
 <!---
 zereft01/zereft01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
